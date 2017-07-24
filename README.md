@@ -1,0 +1,2 @@
+# DLXAVPlayer
+自己根据学习AVFoundation 框架写的一个视频播放器,会持续更新做一个功能齐全的demo
